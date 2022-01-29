@@ -1,0 +1,4 @@
+1.进入虚拟环境：source env/Scripts/activate
+2.查看下载的包：pip freeze
+3.跑server:python manager.py runserver
+
